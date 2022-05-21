@@ -1,0 +1,6 @@
+#BMI
+
+bb = float(input("Berat badan :"))
+tb = float(input("Tinggi badan :"))
+BMI = bb/(tb**2)
+print(f"BMI kamu yaitu {BMI}")
