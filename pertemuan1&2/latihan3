@@ -1,0 +1,6 @@
+#Luas ruangan
+
+panjang = 3
+lebar = 4
+luas = panjang*lebar
+print(luas,"meter^2")
