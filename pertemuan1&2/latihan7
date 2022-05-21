@@ -1,0 +1,6 @@
+#Luas segitiga
+
+a = 8
+t = 12
+area = (a*t)/2
+print(area)
