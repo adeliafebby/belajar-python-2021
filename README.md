@@ -1,2 +1,2 @@
 # belajar-python-2021
-Contains basics syntax and knowledge about python
+Berisi latihan-latihan dasar tentang Python
