@@ -1,2 +1,2 @@
-# belajar-python-2021
+# belajar-python-2022
 Berisi latihan-latihan dasar tentang Python
